@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YEONG-GIL GO&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Junior Back-end Server Developer&descAlignY=51&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YEONG-GIL%20GO&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Junior%20Back-end%20Server%20Developer&descAlignY=51&descAlign=62)
 <p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -16,7 +15,6 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-
 <br><br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
@@ -24,9 +22,9 @@
 <p align="center">
   <a href="mailto:dudrlf1859@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dudrlf1859@naver.com"/></a>
 </p>
-
-
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonggilgo&show_icons=true&theme=gruvbox)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeonggilgo&show_icons=true&theme=gruvbox" /></a>
+
 
