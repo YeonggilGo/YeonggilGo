@@ -19,6 +19,7 @@
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center"> 🌱 I’m currently studying in Samsung Software Academy For Youth, SSAFY </p>
+<a align="center" href="https://yeonggilgo.github.io/blog/landing.html">🌱 Take a look at my portfolio!</a>
 <p align="center">
   <a href="mailto:dudrlf1859@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dudrlf1859@naver.com"/></a>
 </p>
