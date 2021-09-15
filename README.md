@@ -18,7 +18,6 @@
 <br><br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
-<p align="center"> 🌱 I’m currently studying in Samsung Software Academy For Youth, SSAFY </p>
 <div align="center">
   <a href="https://yeonggilgo.github.io/blog/landing.html">🌱 Take a look at my portfolio!</a>
 </div>
